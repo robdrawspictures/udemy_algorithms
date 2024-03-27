@@ -62,7 +62,7 @@ function sameSuperior(arr1, arr2){
     but because the test I used only had each number once it's
     all 1.
     
-    That's what the OR is for in 69 & 72, although I've never seen
+    That's what the OR is for in 73 & 76, although I've never seen
     this done before. I think this is a very shorthand if statement
     where if the key already exists in freqCount1 with the given val
     then increment by one, otherwise it's 0 and add 1 for the

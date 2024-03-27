@@ -131,7 +131,7 @@ For the next loop is where things get clever, because rather than bumping
 everything up one and doing:
 2 + 3 + 4 = 9
 
-We using a single index number to subtract the previous first number and
+We use a single index number to subtract the previous first number and
 add the new last one, like this:
 6 - 1 + 4 = 9
 
